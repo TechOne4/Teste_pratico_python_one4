@@ -19,7 +19,7 @@ def search_google(driver, query):
     search_box = driver.find_element(By.NAME, 'q')
     search_box.send_keys(query)
     search_box.send_keys(Keys.RETURN)
-    time.sleep(2)  # Considerar o uso de esperas explícitas aqui
+    time.sleep(2)
 
 def get_first_result_data(driver, chave):
     """Obtém o título e a URL do primeiro resultado de pesquisa do Google."""
@@ -36,7 +36,7 @@ def get_first_result_data(driver, chave):
 def download_images(driver, chave):
     """Baixa as primeiras 5 imagens de uma pesquisa no Google Images."""
     driver.get(f'https://www.google.com/search?q={chave}&tbm=isch')
-    time.sleep(2)  # Considerar o uso de esperas explícitas aqui
+    time.sleep(2)
     images = driver.find_elements(By.XPATH, '//img[contains(@class, "rg_i")]')
     os.makedirs(f'./output/{chave}', exist_ok=True)
 
