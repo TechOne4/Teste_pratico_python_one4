@@ -12,7 +12,7 @@ Este projeto utiliza Selenium para pesquisar no Google a partir de uma lista de 
 1. **Clone o repositório:**
 
 ```bash```
-- git clone https://github.com/seu-usuario/seu-projeto.git
+- git clone https://github.com/leonardotideveloper/Teste_pratico_python_one4.git
 - cd seu-projeto
 
 2. **Crie e ative um ambiente virtual(opcional):**
