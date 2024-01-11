@@ -1,0 +1,24 @@
+# Arquivos gerados pelo Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Arquivos gerados pelo ambiente de desenvolvimento
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache
+
+# Ambiente virtual
+venv/
+env/

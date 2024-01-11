@@ -3,3 +3,5 @@ Leia o arquivo `./input/pesquisa.csv` e utilizando o selenium pesquise no google
 
 ## Obs
 - O arquivo `pesquisa.csv` contem cabeçalho
+
+# webdriver manager
