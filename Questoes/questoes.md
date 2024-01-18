@@ -7,7 +7,7 @@
 ###### R: Os dados são a base de qualquer automação. Se os dados estiverem incorretos ou incompletos, a automação não funcionará corretamente. Isso pode levar a erros, desperdício de tempo e recursos, e até mesmo a perda de negócios.
 
 ##### 3 - Segudo boas praticas oque devemos colocar dentro de `__init__` em uma classe?
-###### R:
+###### R: Deve ser utilizado para inicialização de atributos e validação de parâmetros, mas evitando realizar tarefas custosas. Se a classe é derivada de outra, chama-se super().
 
 ##### 4 - Qual a importancia de utilizar `venvs`?
 ###### R: 
