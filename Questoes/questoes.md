@@ -29,7 +29,7 @@
 ###### R: Em alguns dos projetos nos quais trabalhei, quando começávamos a codificar, já havia algumas configurações pré-definidas no Docker. Isso evitava a necessidade de persistência de dados. Por exemplo, quando o Docker era iniciado, alguns microserviços disparavam uma chamada RPC para popular o banco de dados. Além disso, existia um pequeno script em Terraform. Assim, quando trabalhávamos no produto de virtualização de datacenter, o datacenter virtual de teste já estava em funcionamento.
 
 ##### 10 - Qual sua experiencia com Flask Django?
-###### R: 
+###### R:  Trabalhei durante dois anos com Django, focando na criação de APIs utilizando as arquiteturas REST, RPC e GraphQL.
 
 ##### 11 - Qual sua experencia com Banco de dados?
-###### R: 
+###### R: Tenho experiência com o banco de dados Postgres. Durante um ano e meio, trabalhei em alguns projetos de ETL. Alguns desses projetos visavam criar um relatório de métricas. Para persistir os dados no banco, era necessário criar views materializadas e fazer consultas em SQL para salvar e atualizar os dados. Nestes projetos, tive autonomia para decidir quais dados deveriam ser utilizados, como utilizá-los, se era necessário criar índices e modelar tabelas.
