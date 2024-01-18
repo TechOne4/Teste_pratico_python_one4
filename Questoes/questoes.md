@@ -19,7 +19,7 @@
 ###### R:  Eu usaria a função lista_de_exemplo.sort(reverse=True) porque ela retorna uma nova lista, sendo mais rápida do que manipular a lista já existente com sorted.
 
 ##### 7 - O que são expressões regulares (regex) e para que são usadas?
-###### R: 
+###### R: Regex são expressões algébricas que nada mais é que  sequência de caracteres usada para encontrar um padrão que corresponda à lógica da expressão em um texto.
 
 ##### 8 - Já uttilizou docker? se sim, explique em que atividades aplicou!
 ###### R: 
