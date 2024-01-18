@@ -22,7 +22,8 @@
 ###### R: Regex são expressões algébricas que nada mais é que  sequência de caracteres usada para encontrar um padrão que corresponda à lógica da expressão em um texto.
 
 ##### 8 - Já uttilizou docker? se sim, explique em que atividades aplicou!
-###### R: 
+###### R: já apliquei Docker em todas as atividades que mencionei! Usar Docker para criar imagens de contêineres que embalam os aplicativos e suas dependências num ambiente isolado foi super útil. Isso me ajudou a manter os ambientes de desenvolvimento local consistentes para todo o time. 
+
 
 ##### 9 - Já utilizou um template de desenvolvimento? se sim explique qual a importancia de utiliza-lo.
 ###### R: 
