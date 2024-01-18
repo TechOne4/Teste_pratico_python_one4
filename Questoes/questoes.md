@@ -26,7 +26,7 @@
 
 
 ##### 9 - Já utilizou um template de desenvolvimento? se sim explique qual a importancia de utiliza-lo.
-###### R: 
+###### R: Em alguns dos projetos nos quais trabalhei, quando começávamos a codificar, já havia algumas configurações pré-definidas no Docker. Isso evitava a necessidade de persistência de dados. Por exemplo, quando o Docker era iniciado, alguns microserviços disparavam uma chamada RPC para popular o banco de dados. Além disso, existia um pequeno script em Terraform. Assim, quando trabalhávamos no produto de virtualização de datacenter, o datacenter virtual de teste já estava em funcionamento.
 
 ##### 10 - Qual sua experiencia com Flask Django?
 ###### R: 
