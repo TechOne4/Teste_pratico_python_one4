@@ -13,10 +13,10 @@
 ###### R: Os venvs ajudam a criar ambientes separados para cada projeto Python, melhorando a organização e a legibilidade do código. Eles também podem evitar conflitos de pacotes. Ao criar um arquivo de requisitos, é possível fixar a versão de uma biblioteca, garantindo que, ao subir o ambiente, não haja possibilidade de subir uma biblioteca com uma versão diferente, especialmente quando se trabalha em projetos distintos.
 
 ##### 5 - O que é a função lambda em Python? Dê um exemplo de uso.
-###### R: 
+###### R: A função lambda é uma função anônima em Python que pode ser usada para criar funções simples em uma única linha. Ela é útil quando você precisa de uma função rápida para uma operação específica e não deseja definir uma função com um nome.
 
 ##### 6 - Como você ordenaria uma lista de números em ordem decrescente?
-###### R: 
+###### R:  Eu usaria a função lista_de_exemplo.sort(reverse=True) porque ela retorna uma nova lista, sendo mais rápida do que manipular a lista já existente com sorted.
 
 ##### 7 - O que são expressões regulares (regex) e para que são usadas?
 ###### R: 
