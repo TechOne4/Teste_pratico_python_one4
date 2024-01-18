@@ -10,7 +10,7 @@
 ###### R: Deve ser utilizado para inicialização de atributos e validação de parâmetros, mas evitando realizar tarefas custosas. Se a classe é derivada de outra, chama-se super().
 
 ##### 4 - Qual a importancia de utilizar `venvs`?
-###### R: 
+###### R: Os venvs ajudam a criar ambientes separados para cada projeto Python, melhorando a organização e a legibilidade do código. Eles também podem evitar conflitos de pacotes. Ao criar um arquivo de requisitos, é possível fixar a versão de uma biblioteca, garantindo que, ao subir o ambiente, não haja possibilidade de subir uma biblioteca com uma versão diferente, especialmente quando se trabalha em projetos distintos.
 
 ##### 5 - O que é a função lambda em Python? Dê um exemplo de uso.
 ###### R: 
